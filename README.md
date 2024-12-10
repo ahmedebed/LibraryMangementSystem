@@ -4,9 +4,9 @@ A simple and comprehensive Library Management System built using Java and OOP pr
 
 ## Features
 
-- Manage books: Add, remove, and list available books.
+- Manage books:list available books.
 - Borrow and return books.
-- User management: Register users and keep track of borrowed books.
+- User management: Register users and keep track of borrowed and return books.
 - library: - Centralized handling of books and users.
 - Separation of functionalities using clean Object-Oriented Design principles.
 
